@@ -16,12 +16,14 @@ Here is my e-mail adress mehmetcanasik526@icloud.com
 
 
 (December 9, 2022)
+
 Today was my first day. 
-Actually I know algorithm. 
-I studied because I was a student at 42Istanbul (Ecole42). 
+Actually I knew algorithm. 
+I knew because I was a student at 42Istanbul (Ecole42). 
 I studied Hello World, Comment Lines, Escape Sequences and Variables.
 Tomorrow, I will study more data types.
 
 (December 19, 2022)
+
 I had to take a break from my studies because I got sick. 
 Today I continue working from where I left off because I feel better.
