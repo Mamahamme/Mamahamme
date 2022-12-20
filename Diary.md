@@ -31,3 +31,5 @@ Today I continue working from where I left off because I feel better.
 
 I studied Accept User Input, Aritmetic Operators, Augmented Assignment Operators, Constant, 
 Format Specifiers, More Data Types and some Useful Math Functions.
+
+(December 20, 2022)
