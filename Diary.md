@@ -27,3 +27,7 @@ Tomorrow, I will study more data types.
 
 I had to take a break from my studies because I got sick. 
 Today I continue working from where I left off because I feel better.
+
+
+I studied Accept User Input, Aritmetic Operators, Augmented Assignment Operators, Constant, 
+Format Specifiers, More Data Types and some Useful Math Functions.
