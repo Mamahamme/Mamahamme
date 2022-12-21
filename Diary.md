@@ -38,3 +38,6 @@ Today I studied If Statements, Switches, Logical Operators (and, or, not).
 
 (December 21, 2022)
 
+Today I stdudied Functions, Arguments and Parameters, Return Statement, Ternary Operator, 
+Funciton Prototype, Useful String Functions, For Loop, While Loop, Do While Loop, Nested 
+Loop, Continue and Break Statements.
