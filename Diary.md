@@ -33,3 +33,8 @@ I studied Accept User Input, Aritmetic Operators, Augmented Assignment Operators
 Format Specifiers, More Data Types and some Useful Math Functions.
 
 (December 20, 2022)
+
+Today I studied If Statements, Switches, Logical Operators (and, or, not).
+
+(December 21, 2022)
+
